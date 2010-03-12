@@ -2,5 +2,5 @@
   "name": "node-router",
   "description": "A simple http server for node.js that has sinatra like qualities.  Ideal for generating web services via node.",
   "author": "creatonix (http://github.com/creationix)",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
